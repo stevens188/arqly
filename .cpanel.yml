@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/cursosv1/es.arquidis.com.co/
+    - export DEPLOYPATH=/home/cursosv1/tuhatch.arquidis.com.co/
     - /bin/cp -r * $DEPLOYPATH
 
 
