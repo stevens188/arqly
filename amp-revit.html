@@ -595,7 +595,22 @@
 	<amp-analytics config="https://www.googletagmanager.com/amp.json?id=GTM-M4PPSBB&gtm.url=SOURCE_URL" data-credentials="include"></amp-analytics>
 	<amp-pixel src="https://www.facebook.com/tr?id=241695860503378&ev=PageView&noscript=1" layout="nodisplay"></amp-pixel>
 
-
+	<!-- Facebook Pixel Analytics tracking -->
+	<amp-analytics type="facebookpixel" id="facebook-pixel">
+	    <script type="application/json">
+	    {
+	        "vars": {
+	            "pixelId": "241695860503378"
+	        },
+	        "triggers": {
+	            "trackPageview": {
+	                "on": "visible",
+	                "request": "pageview"
+	            }
+	        }
+	    }
+	    </script>
+	</amp-analytics>
 
 	<header>
 		<div class="menu content-width">
