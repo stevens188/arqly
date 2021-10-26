@@ -595,6 +595,7 @@
 <body>
 	<!-- Google Tag Manager -->
   <amp-analytics config="https://www.googletagmanager.com/amp.json?id=GTM-5CBD9JS&gtm.url=SOURCE_URL" data-credentials="include"></amp-analytics>
+
 	<amp-pixel src="https://www.facebook.com/tr?id=2966915813631902&ev=PageView&noscript=1" layout="nodisplay"></amp-pixel>
 
 	<!-- Facebook Pixel Analytics tracking -->
@@ -614,6 +615,24 @@
 	    </script>
 	</amp-analytics>
 	<!-- Facebook Pixel Analytics tracking -->
+
+
+	<!-- Analytics GA4 -->
+	<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+<amp-analytics type="gtag" data-credentials="include">
+<script type="application/json">
+{
+  "vars" : {
+    "gtag_id": "<G-KP96RP756C>",
+    "config" : {
+      "<GA_MEASUREMENT_ID>": { "groups": "default" }
+    }
+  }
+}
+</script>
+</amp-analytics>
+  <!-- Analytics GA4 -->
+
 
 	<header>
 		<div class="menu content-width">
