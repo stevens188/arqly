@@ -68,11 +68,11 @@
         <div class="container-fluid">
           <div class="row align-items-center justify-content-between d-flex">
             <div id="logo">
-              <a href="index.html"><img src="img/logo2.png" alt="logo de arquidis" title="" /></a>
+              <a href="/"><img src="img/logo2.png" alt="logo de arquidis" title="" /></a>
             </div>
             <nav id="nav-menu-container">
               <ul class="nav-menu">
-                <li><a style="color: yellowgreen;"  href="index.html">Servicios</a></li>
+                <li><a style="color: yellowgreen;"  href="/">Servicios</a></li>
                 <li><a href="somos.html"><?php echo lang('quienes_somos'); ?></a></li>
                 <li><a href="contacto.html">Contacto</a></li>
               </ul>
