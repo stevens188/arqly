@@ -1,5 +1,6 @@
 <?php 
-  if(isset($_GET['lang']) && $_GET['lang'] == 'en') {
+  $browserLang = substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 2);
+  if(isset($_GET['lang']) && $_GET['lang'] == 'en' || $browserLang == 'en') {
     require_once('./lang/en.php');
   } else {
     require_once('./lang/es.php');
