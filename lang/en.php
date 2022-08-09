@@ -1,7 +1,7 @@
 <?php 
 function lang($val=null) {
   $lang=[
-    'html_title' => 'Services Bla bla',
+    'html_title' => 'Revit Services',
     'quienes_somos' => 'about Us',
     'modelado_3d_description' => 'Aqui pongo el carretazo'
   ];
