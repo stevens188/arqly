@@ -74,7 +74,7 @@
               <ul class="nav-menu">
                 <li><a style="color: yellowgreen;"  href="/">Servicios</a></li>
                 <li><a href="somos.html"><?php echo lang('quienes_somos'); ?></a></li>
-                <li><a href="contacto.html">Contacto</a></li>
+                <li><a href="contacto.html"><?php echo lang('contact'); ?></a></li>
               </ul>
             </nav>
           </div>
