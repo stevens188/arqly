@@ -1,4 +1,4 @@
-<?php 
+<?php
   $browserLang = substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 2);
   if(isset($_GET['lang']) && $_GET['lang'] == 'en' || $browserLang == 'en') {
     require_once('./lang/en.php');
@@ -95,7 +95,7 @@
             <p class="text-white h3">REVIT - NAVISWORKS</p>
             <p style="font-size: 1.3em;   line-height: 1.5em;" class="text-white m-3">
             <strong class="h3 text-white">¿No tienes tiempo y te urge entregar tus proyectos? </strong> <br>llámanos, lo haremos más rápido, mejor y mucho más económico de lo que te imaginas.</p>
-            <a href="https://api.whatsapp.com/send?phone=573104578991&text=Buen%20d%C3%ADa%2C%20quiero%20saber%20m%C3%A1s%20sobre%20el%20dibujante%20en%20Revit" class="btn btn-outline-light btn-lg" role="button">Llamar / Whatsapp: +57 3104578991</a><br>
+            <a href="https://api.whatsapp.com/send?phone=573146688920&text=Buen%20d%C3%ADa%2C%20quiero%20saber%20m%C3%A1s%20sobre%20el%20dibujante%20en%20Revit" class="btn btn-outline-light btn-lg" role="button">Llamar / Whatsapp: +57 3146688920</a><br>
           </div>
         </div>
       </div>
@@ -113,7 +113,7 @@
             <h1>Arquitectura</h1>
             <p><span>Modelado 3d - Anotación - planimetria</span></p>
             <p><?php echo lang('modelado_3d_description'); ?></p>
-            <a class="callaction-btn" href="https://api.whatsapp.com/send?phone=573104578991&text=Buen%20d%C3%ADa%2C%20quiero%20saber%20m%C3%A1s%20sobre%20el%20dibujante%20en%20Revit">WhatsApp clic aquí</a>
+            <a class="callaction-btn" href="https://api.whatsapp.com/send?phone=573146688920&text=Buen%20d%C3%ADa%2C%20quiero%20saber%20m%C3%A1s%20sobre%20el%20dibujante%20en%20Revit">WhatsApp clic aquí</a>
           </div>
           <section class="video-area col-lg-6 no-padding">
             <div class="overlay overlay-bg"></div>
@@ -140,7 +140,7 @@
             <h1 class="text-white">Estructura</h1>
             <p><span>Estructura metálica - Madera - Hormigón</span></p>
             <p>Dedicate al diseño estructural que nosotros nos encargamos de los planos. Generación de detalles, modelado 3D, cantidades, despieces, anotación.</p>
-            <a class="callaction-btn" href="https://api.whatsapp.com/send?phone=573104578991&text=Buen%20d%C3%ADa%2C%20quiero%20saber%20m%C3%A1s%20sobre%20el%20dibujante%20estructural">WhatsApp clic aquí</a>
+            <a class="callaction-btn" href="https://api.whatsapp.com/send?phone=573146688920&text=Buen%20d%C3%ADa%2C%20quiero%20saber%20m%C3%A1s%20sobre%20el%20dibujante%20estructural">WhatsApp clic aquí</a>
           </div>
         </div>
       </div>
@@ -156,7 +156,7 @@
             <h1>Electricidad</h1>
             <p><span>Modelado 3d - Anotación - planimetria</span></p>
             <p>Te ayudamos con los planos de tu proyecto de arquitectura, modelando en 3d y creación de planos. Te ayudaremos con las cantidades de obra y, si lo requiere, podemos ayudarle con el diseño.  Te enviaremos los planos en CAD, RVT y PDF.</p>
-            <a class="callaction-btn" href="https://api.whatsapp.com/send?phone=573104578991&text=Buen%20d%C3%ADa%2C%20quiero%20saber%20m%C3%A1s%20sobre%20el%20dibujante%20en%20Revit">WhatsApp clic aquí</a>
+            <a class="callaction-btn" href="https://api.whatsapp.com/send?phone=573146688920&text=Buen%20d%C3%ADa%2C%20quiero%20saber%20m%C3%A1s%20sobre%20el%20dibujante%20en%20Revit">WhatsApp clic aquí</a>
           </div>
           <section class="video-area col-lg-6 no-padding">
             <div class="overlay overlay-bg"></div>
@@ -186,7 +186,7 @@
             <h1 class="text-white">Climatización</h1>
             <p><span>Dibujantes calificados</span></p>
             <p>Dibujo y modelado del sistema de climatización en Revit. Cantidades, planos, análisis y modelado. Contrata el servicio de dibujo.</p>
-            <a class="btn btn-info"    href="https://api.whatsapp.com/send?phone=573104578991&text=Buen%20d%C3%ADa%2C%20quiero%20saber%20m%C3%A1s%20sobre%20el%20dibujante%20en%20Revit">WhatsApp clic aquí</a>
+            <a class="btn btn-info"    href="https://api.whatsapp.com/send?phone=573146688920&text=Buen%20d%C3%ADa%2C%20quiero%20saber%20m%C3%A1s%20sobre%20el%20dibujante%20en%20Revit">WhatsApp clic aquí</a>
           </div>
         </div>
       </div>
@@ -202,7 +202,7 @@
             <h1>Informe de interferencias</h1>
             <p><span>Interferencias - Simulación - Programación 4D</span></p>
             <p>Asegúrate de construir sin errores en el diseño. Te entregaremos un informe detallado de: errores en los planos, interferencias entre elementos e interferencias entre redes. </p>
-            <a class="callaction-btn" href="https://api.whatsapp.com/send?phone=573104578991&text=Buen%20d%C3%ADa%2C%20quiero%20saber%20m%C3%A1s%20sobre%20el%20dibujante%20en%20Revit">WhatsApp clic aquí</a>
+            <a class="callaction-btn" href="https://api.whatsapp.com/send?phone=573146688920&text=Buen%20d%C3%ADa%2C%20quiero%20saber%20m%C3%A1s%20sobre%20el%20dibujante%20en%20Revit">WhatsApp clic aquí</a>
           </div>
           <section class="video-area col-lg-6 no-padding">
             <div class="overlay overlay-bg"></div>
@@ -231,7 +231,7 @@
             <p>
               Realizamos modelado en Revit o CAD desde una nube de puntos. Generación de planos para levantamientos topográficos.
             </p>
-            <a class="btn btn-light"    href="https://api.whatsapp.com/send?phone=573104578991&text=Buen%20d%C3%ADa%2C%20quiero%20saber%20m%C3%A1s%20sobre%20el%20dibujante%20en%20Revit">WhatsApp clic aquí</a>
+            <a class="btn btn-light"    href="https://api.whatsapp.com/send?phone=573146688920&text=Buen%20d%C3%ADa%2C%20quiero%20saber%20m%C3%A1s%20sobre%20el%20dibujante%20en%20Revit">WhatsApp clic aquí</a>
           </div>
         </div>
       </div>
@@ -247,7 +247,7 @@
             <h1>Redes MEP</h1>
             <p><span>Agua fria - Sanitaria - Incendio - Voz y datos</span></p>
             <p>Servicio de dibujo de instalaciones: red de incendio, agua fría y caliente, sanitaria, aguas lluvias, voz y datos. Modelado y emisión de planos.</p>
-            <a class="callaction-btn" href="https://api.whatsapp.com/send?phone=573104578991&text=Buen%20d%C3%ADa%2C%20quiero%20saber%20m%C3%A1s%20sobre%20el%20dibujante%20en%20Revit">WhatsApp clic aquí</a>
+            <a class="callaction-btn" href="https://api.whatsapp.com/send?phone=573146688920&text=Buen%20d%C3%ADa%2C%20quiero%20saber%20m%C3%A1s%20sobre%20el%20dibujante%20en%20Revit">WhatsApp clic aquí</a>
           </div>
           <section class="video-area col-lg-6 no-padding">
             <div class="overlay overlay-bg"></div>
@@ -272,7 +272,7 @@
             <p class="m-4 ">
               Escríbenos y cuéntanos en qué proyecto podemos ayudarte
             </p>
-            <a class="callaction-btn m-4" href="https://api.whatsapp.com/send?phone=573104578991&text=Buen%20d%C3%ADa%2C%20quiero%20saber%20m%C3%A1s%20sobre%20el%20dibujante%20en%20Revit">WhatsApp clic aquí</a>
+            <a class="callaction-btn m-4" href="https://api.whatsapp.com/send?phone=573146688920&text=Buen%20d%C3%ADa%2C%20quiero%20saber%20m%C3%A1s%20sobre%20el%20dibujante%20en%20Revit">WhatsApp clic aquí</a>
           </div>
         </div>
       </div>
@@ -292,7 +292,7 @@
           <div class="col-sm">
 
             <div class="single-footer-widget ">
-              <a class="h4 text-white" href="https://api.whatsapp.com/send?phone=573104578991&text=Buen%20d%C3%ADa%2C%20quiero%20saber%20m%C3%A1s%20sobre%20el%20dibujante%20en%20Revit"><img src="img/whatsapp.webp" alt="icono de localización">&nbsp;&nbsp;</a>
+              <a class="h4 text-white" href="https://api.whatsapp.com/send?phone=573146688920&text=Buen%20d%C3%ADa%2C%20quiero%20saber%20m%C3%A1s%20sobre%20el%20dibujante%20en%20Revit"><img src="img/whatsapp.webp" alt="icono de localización">&nbsp;&nbsp;</a>
             </div>
 
           </div>
@@ -300,7 +300,7 @@
           <div class="col-sm">
 
             <div class="single-footer-widget ">
-              <a class="h4 text-white" href="tel:+573104578991"><img src="img/icons/2.png" alt="icono de localización">&nbsp;&nbsp;+57 3104578991</a>
+              <a class="h4 text-white" href="tel:+573146688920"><img src="img/icons/2.png" alt="icono de localización">&nbsp;&nbsp;+57 3146688920</a>
             </div>
 
           </div>
@@ -308,7 +308,7 @@
           <div class="col-sm ">
 
             <div class="single-footer-widget">
-              <a class="h4 text-white" href="tel:+57 3104578991"><img src="img/icons/2.png" alt="icono de localización">&nbsp;&nbsp;+57 3104578991</a>
+              <a class="h4 text-white" href="tel:+57 3146688920"><img src="img/icons/2.png" alt="icono de localización">&nbsp;&nbsp;+57 3146688920</a>
             </div>
           </div>
           <!-- fin row -->
